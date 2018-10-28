@@ -1,0 +1,6 @@
+c:\users\cris9\documents\visual studio 2015\Projects\Patrones\Patrones\bin\Debug\Patrones.exe.config
+c:\users\cris9\documents\visual studio 2015\Projects\Patrones\Patrones\bin\Debug\Patrones.exe
+c:\users\cris9\documents\visual studio 2015\Projects\Patrones\Patrones\bin\Debug\Patrones.pdb
+c:\users\cris9\documents\visual studio 2015\Projects\Patrones\Patrones\obj\Debug\Patrones.csprojResolveAssemblyReference.cache
+c:\users\cris9\documents\visual studio 2015\Projects\Patrones\Patrones\obj\Debug\Patrones.exe
+c:\users\cris9\documents\visual studio 2015\Projects\Patrones\Patrones\obj\Debug\Patrones.pdb

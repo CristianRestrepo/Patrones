@@ -1,0 +1,6 @@
+c:\Users\Cris9\documents\visual studio 2015\Projects\Patrones\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+c:\Users\Cris9\documents\visual studio 2015\Projects\Patrones\FactoryMethod\bin\Debug\FactoryMethod.exe
+c:\Users\Cris9\documents\visual studio 2015\Projects\Patrones\FactoryMethod\bin\Debug\FactoryMethod.pdb
+c:\Users\Cris9\documents\visual studio 2015\Projects\Patrones\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+c:\Users\Cris9\documents\visual studio 2015\Projects\Patrones\FactoryMethod\obj\Debug\FactoryMethod.exe
+c:\Users\Cris9\documents\visual studio 2015\Projects\Patrones\FactoryMethod\obj\Debug\FactoryMethod.pdb

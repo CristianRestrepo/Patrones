@@ -1,0 +1,5 @@
+c:\Users\Cris9\documents\visual studio 2015\Projects\Patrones\Singleton\bin\Debug\Singleton.exe.config
+c:\Users\Cris9\documents\visual studio 2015\Projects\Patrones\Singleton\bin\Debug\Singleton.exe
+c:\Users\Cris9\documents\visual studio 2015\Projects\Patrones\Singleton\bin\Debug\Singleton.pdb
+c:\Users\Cris9\documents\visual studio 2015\Projects\Patrones\Singleton\obj\Debug\Singleton.exe
+c:\Users\Cris9\documents\visual studio 2015\Projects\Patrones\Singleton\obj\Debug\Singleton.pdb
